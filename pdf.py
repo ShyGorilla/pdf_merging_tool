@@ -68,6 +68,5 @@ for i in range(len(lst)):
      
     # Close all the files - Created as well as opened
 pdfOutputFile.close()
-place = os.system("pwd")
-print(G + '\nSuccessfully merged the pdf files to ' + str(place) + '/MergedFiles.pdf')
+print(G + '\nSuccessfully merged the pdf files\n')
 
