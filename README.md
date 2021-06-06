@@ -11,6 +11,10 @@ PMT is a simple tool that can merge for you multiple pdf file to one file using 
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Mac](http://img.shields.io/badge/-Mac-0078D6?style=flat-square&logo=apple&logoColor=ffffff)
 
+## Coding languages 💻
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+
 ## Build and install from source
 `git clone https://github.com/ShyGorilla/pdf_merging_tool.git` // Cloninng the tool
 
