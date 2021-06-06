@@ -25,4 +25,6 @@ or you can do all that with only one command to copy
 
 ## Screenshot
 
+![Screen Recording 2021-06-06 at 8 09 16 PM-2](https://user-images.githubusercontent.com/73632576/120931747-fd187580-c703-11eb-8b0f-e0317c7e6fbd.gif)
+
 ![1](https://user-images.githubusercontent.com/73632576/119920710-d167f380-bf7d-11eb-8657-855e7420b961.jpg)
