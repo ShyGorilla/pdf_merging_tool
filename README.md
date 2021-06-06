@@ -1,5 +1,7 @@
 # PDF Merging Tool
 
+<p width="493" style="text-align:center;"><img src="https://user-images.githubusercontent.com/73632576/120908686-c39d2700-c67d-11eb-8c5e-0a0703d1d733.png" alt="Screen Shot 2021-06-06 at 4 14 24 AM"></p>
+
 ## What is PMT ?
 PMT is a simple tool that can merge for you multiple pdf file to one file using a python code.
 
